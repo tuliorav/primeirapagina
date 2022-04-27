@@ -1,4 +1,6 @@
 # primeirapagina
 Minha primeira programação de um site.
 
-Ainda vou fazer a parte de projetos (vai estar esse la, pois é o primeiro rs) e contatos
+Ainda vou fazer a parte de projetos (vai estar esse la, pois é o primeiro rs) e contatos.
+
+Projeto inspirado no video da Adriana Saty
